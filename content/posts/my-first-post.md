@@ -1,7 +1,6 @@
 ---
 title: "Æ-Ø-Å"
 date: 2023-07-11T11:55:14+02:00
-draft: true
 ---
 ## The problem
 
